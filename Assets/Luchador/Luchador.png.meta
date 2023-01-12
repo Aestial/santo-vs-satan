@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 1ed3b151b28724e20a3054f407a2e5f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Right_Arm_Down
+  - first:
+      213: 21300002
+    second: Right_Arm_Up
+  - first:
+      213: 21300004
+    second: Torso
+  - first:
+      213: 21300006
+    second: Head
+  - first:
+      213: 21300008
+    second: Right_Fist
+  - first:
+      213: 21300010
+    second: Trouser
+  - first:
+      213: 21300012
+    second: Belly
+  - first:
+      213: 21300014
+    second: Left_Arm
+  - first:
+      213: 21300016
+    second: Front_Leg_Up
+  - first:
+      213: 21300018
+    second: Back_Leg_Up
+  - first:
+      213: 21300020
+    second: Rigth_Arm_Down
+  - first:
+      213: 21300022
+    second: Front_Leg_Down
+  - first:
+      213: 21300024
+    second: Back_Leg_Down
+  - first:
+      213: 21300026
+    second: Right_Feet
+  - first:
+      213: 21300028
+    second: Left_Feet
+  - first:
+      213: 21300030
+    second: Left_Fist
+  - first:
+      213: 21300032
+    second: Right_Arm_Punch
+  - first:
+      213: 21300034
+    second: Luchador_0
+  - first:
+      213: 21300036
+    second: Smear_Punch
+  - first:
+      213: 21300038
+    second: Head_Hurt
+  - first:
+      213: 21300040
+    second: Smear_Punch_Back
+  - first:
+      213: 21300042
+    second: Extended_BackArm
+  - first:
+      213: 21300044
+    second: Extended_BackArm_Down
+  - first:
+      213: 21300046
+    second: BackFist
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Right_Arm_Down
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 195
+        width: 69
+        height: 57
+      alignment: 9
+      pivot: {x: 0.14696544, y: 0.548841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb07ce5d1c04d20af684e76f9ff106
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Arm_Up
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 162
+        width: 89
+        height: 91
+      alignment: 9
+      pivot: {x: 0.8831811, y: 0.65296334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880cd6af2b5c94bd4b23a0b55e09ffcc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 144
+        width: 100
+        height: 99
+      alignment: 9
+      pivot: {x: 0.39560273, y: 0.24691556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33163da680309438197ec741e281d22b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 171
+        width: 78
+        height: 92
+      alignment: 9
+      pivot: {x: 0.24123754, y: 0.2957445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74ee5de187f449b87f13c17073ccbf
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Fist
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 127
+        width: 62
+        height: 57
+      alignment: 9
+      pivot: {x: 0.20813641, y: 0.47557977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244e95fe332d4c908822e56a1cae184
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trouser
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 109
+        height: 75
+      alignment: 9
+      pivot: {x: 0.53831106, y: 0.3144045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15eed999d8443949692a72adab3358
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belly
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 43
+        width: 110
+        height: 97
+      alignment: 9
+      pivot: {x: 0.43040174, y: 0.20582207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c887c020197d498a8b606d49a276337
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Arm
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 72
+        width: 72
+        height: 89
+      alignment: 9
+      pivot: {x: 0.16167535, y: 0.7189609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98bca80f9e9b444592df68f67da6d44
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_Leg_Up
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 47
+        height: 54
+      alignment: 9
+      pivot: {x: 0.57404065, y: 0.7319942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65eaa0941ad64249969cb2d0805a228
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_Leg_Up
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 7
+        width: 58
+        height: 64
+      alignment: 9
+      pivot: {x: 0.26000607, y: 0.57612294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778fdfc3b8fef449284431c7da409274
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rigth_Arm_Down
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 8
+        width: 57
+        height: 65
+      alignment: 9
+      pivot: {x: 0.23137571, y: 0.5214145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acb40f19675f4ea2a974c60d2e37fe5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_Leg_Down
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 50
+        height: 53
+      alignment: 9
+      pivot: {x: 0.72271436, y: 0.775767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcfc3e7e42d64a7ab15b3ce8790e3f1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back_Leg_Down
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 39
+        height: 55
+      alignment: 9
+      pivot: {x: 0.35723448, y: 0.80370176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82062f4d74f3449eb9a3400441922ef
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Feet
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5898049, y: 0.7037025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403b45decef64902a9127407922cc7e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Feet
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 37
+        height: 15
+      alignment: 9
+      pivot: {x: 0.25546595, y: 0.68559533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35d8e09b51a74b02862ae652cdfb67b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Fist
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 8
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: 0.61818594, y: 0.60123354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46850c7bfb0c41899a144dee0c142d5
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Arm_Punch
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 259
+        width: 72
+        height: 71
+      alignment: 9
+      pivot: {x: 0.63006806, y: 0.48858556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af12cd59abd49f397aefa84dd111be
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luchador_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 421
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e74f5ea0bed4550a626d2eb7c5044d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smear_Punch
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 347
+        width: 143
+        height: 63
+      alignment: 9
+      pivot: {x: 0.55565304, y: 0.49999952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b4fb8663ee49b5b9ee85bdb9f0c9e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head_Hurt
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 277
+        width: 78
+        height: 92
+      alignment: 9
+      pivot: {x: 0.24123754, y: 0.2957445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f315ae1b2192d4983ad96d72cb8deb7a
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smear_Punch_Back
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 444
+        width: 143
+        height: 63
+      alignment: 9
+      pivot: {x: 0.55565304, y: 0.49999952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0939ffa0d3c440a8854d91da10ac1e
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extended_BackArm
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 264
+        width: 119
+        height: 64
+      alignment: 9
+      pivot: {x: 0.20105083, y: 0.46430254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78f73285fb24b57b1534059495a90e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Extended_BackArm_Down
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 74
+        height: 56
+      alignment: 9
+      pivot: {x: 0.21663253, y: 0.6637464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d3b060f7814864aa4f2c328c299de
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackFist
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 388
+        width: 60
+        height: 51
+      alignment: 9
+      pivot: {x: 0.1464264, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be687a18aa2254d1ab2e1cf26caa9d1c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6bfbf8cc4f718438fbf1d077d3ed6e1a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Torso: 21300004
+      Rigth_Arm_Down: 21300020
+      Left_Fist: 21300030
+      Right_Feet: 21300026
+      Right_Arm_Up: 21300002
+      Right_Arm_Down: 21300000
+      Head: 21300006
+      Trouser: 21300010
+      Right_Fist: 21300008
+      BackFist: 21300046
+      Extended_BackArm: 21300042
+      Smear_Punch_Back: 21300040
+      Back_Leg_Down: 21300024
+      Front_Leg_Down: 21300022
+      Front_Leg_Up: 21300016
+      Smear_Punch: 21300036
+      Right_Arm_Punch: 21300032
+      Head_Hurt: 21300038
+      Left_Arm: 21300014
+      Belly: 21300012
+      Left_Feet: 21300028
+      Luchador_0: 21300034
+      Extended_BackArm_Down: 21300044
+      Back_Leg_Up: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
