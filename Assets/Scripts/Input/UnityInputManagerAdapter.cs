@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Santos
+namespace Input
 {
     public class UnityInputManagerAdapter : IInput
     {

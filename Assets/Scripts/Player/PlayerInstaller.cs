@@ -1,25 +1,24 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+using Input;
 using UnityEngine;
+using UnityEngine.Serialization;
 
-namespace Santos
+namespace Player
 {
     public class PlayerInstaller : MonoBehaviour
     {
-        [SerializeField] private Player m_Player;
+        [FormerlySerializedAs("m_Player")] [SerializeField] private Player player;
         private void Awake()
         {
-            if (m_Player == null)
+            if (player == null)
             {
-                m_Player = FindObjectOfType<Player>();
+                player = FindObjectOfType<Player>();
             }
-            m_Player.Configure(
+            player.Configure(
                 GetInput()
             );
         }
 
-        private IInput GetInput()
+        private static IInput GetInput()
         {
             return new UnityInputManagerAdapter();
         }

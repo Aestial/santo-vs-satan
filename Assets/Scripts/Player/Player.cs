@@ -1,30 +1,31 @@
+using Input;
 using UnityEngine;
 
-namespace Santos
+namespace Player
 {
-    public class Player : Actor
+    public class Player : Actor.Actor
     {
-        private IInput m_Input;
+        private IInput _input;
         
         public void Configure(IInput input)
         {
-            m_Input = input;
+            _input = input;
         }
         protected override Vector2 GetDirection()
         {
-            return m_Input.GetDirectionAxis();
+            return _input.GetDirectionAxis();
         }
         protected override bool GetRunning()
         {
-            return m_Input.GetRunningButton();
+            return _input.GetRunningButton();
         }
         protected override bool GetPrimaryAction()
         {
-            return m_Input.GetPrimaryActionButtonDown();
+            return _input.GetPrimaryActionButtonDown();
         }
         protected override bool GetSecondaryAction()
         {
-            return m_Input.GetSecondaryActionButtonDown();
+            return _input.GetSecondaryActionButtonDown();
         }
     }
 }
